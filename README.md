@@ -1,4 +1,4 @@
-UART Loopback Communication System using Verilog HDL
+# UART Loopback Communication System using Verilog HDL
 
 A UART (Universal Asynchronous Receiver Transmitter) communication system designed and implemented in Verilog HDL using a modular RTL architecture. The project was simulated, verified, and deployed on the Basys3 FPGA board for real-time hardware validation.
 
